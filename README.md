@@ -23,5 +23,8 @@ To Use👩‍💻:
 
 Future updation🔮:
 
-- Requires an OpenWeatherMap API key.
-- Can be further enhanced with features like unit conversion, forecasts, and more.
+* AI-powered forecasts
+* AR/VR integration
+* Hyperlocal weather
+* Voice control
+* Offline mode
